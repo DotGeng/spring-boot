@@ -15,7 +15,6 @@
 	</properties>
 	<!-- Most elements are in profiles so they are stripped out during maven-flatten -->
 
-
 	<profiles>
 		<!-- Default profile for command line build -->
 		<profile>
